@@ -1,4 +1,4 @@
-#JetBrains 
+# JetBrains Spellchecking Assignment (Task 2)
 
 >**This section hosts my solution for Task 2 of the Spellchecking assignment by JetBrains.**
 
