@@ -1,6 +1,8 @@
 # JetBrains Spellchecking Assignment (Task 2)
 
 >**This section hosts my solution for Task 2 of the Spellchecking assignment by JetBrains.**
+>
+>To run the code, open the `main.ipynb` interactive notebook. Uncomment the first code cell to install the necessary libraries. Then, you can run the cells in order to load the dataset, preprocess the text, and train and evaluate the spellcheckers.
 
 I hereby provide a list of my chosen spellcheckers and evaluation methods, with a brief explanation. I also attach a table with ready results.
 
